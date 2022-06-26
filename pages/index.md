@@ -6,8 +6,6 @@ title: VictorieeTech
 description: Data Science & Programming
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to another page](./about).
 
 
