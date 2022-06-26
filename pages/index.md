@@ -9,8 +9,8 @@ description: Data Science & Programming
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./about).
-
-Odysee blog: [@VictorieeTech](https://odysee.com/@VictorieeTech:2)
+Business Content: [Products & Services](./business)
+Tech blog: [@VictorieeTech](https://odysee.com/@VictorieeTech:2)
 
 There should be whitespace between paragraphs.
 
