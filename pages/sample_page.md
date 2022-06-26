@@ -6,6 +6,10 @@ title: VictorieeMan
 description: Data Science & Programming
 ---
 
+https://github.com/pages-themes/leap-day
+
+https://jekyllrb.com/docs/structure/
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./about).
