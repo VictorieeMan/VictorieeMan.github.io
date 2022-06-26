@@ -5,4 +5,4 @@ permalink: /about/
 
 # About
 
-About stugg and things
+About stugg and things!
