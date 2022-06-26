@@ -19,5 +19,6 @@ google-analytics:
 
 exclude: ['package.json', 'src' , 'node_modules']
 
+#Plugins
 plugins:
   - jekyll-feed
