@@ -107,4 +107,4 @@ document.addEventListener("DOMContentLoaded", function () { new SweetScroll({});
     }
   },
   "retina_detect": true
-}) }, !1);
+}) }, false);
