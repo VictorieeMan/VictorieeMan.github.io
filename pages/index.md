@@ -10,6 +10,10 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <a href="{{ site.github.repository_url }}" class="button fork"><strong>View On GitHub</strong></a>
 
+Lorem ipsum dolor sit amet.
+
+<button name="button" onclick="http://www.google.com">Click me</button
+
 [Link to another page](./about).
 
 
