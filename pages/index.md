@@ -12,7 +12,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 Lorem ipsum dolor sit amet.
 
-<button name="button" onclick="http://www.google.com">Click me</button
+<button name="button" onclick="http://www.google.com">Click me</button>
 
 [Link to another page](./about).
 
