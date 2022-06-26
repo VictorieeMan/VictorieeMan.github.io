@@ -1,4 +1,5 @@
-theme: jekyll-theme-leap-day
 domain: VictorieeMan.github.io
 url: https://VictorieeMan.github.io
-description: Data Science & Programming
+
+theme: jekyll-theme-leap-day
+overview: true
