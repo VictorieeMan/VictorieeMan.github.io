@@ -14,6 +14,6 @@ description: Data Science & Programming
 Business Content: [Products & Services](./business)
 
 
-Tech blog: <a href="[example.com](https://odysee.com/@VictorieeTech:2)" target="_blank">@VictorieeTech</a>
+Tech blog: <a href="https://odysee.com/@VictorieeTech:2" target="_blank">@VictorieeTech</a>
 
 <a href="https://victorieeman.github.io/" style="#banner" class="button"><strong>Home!</strong></a>
