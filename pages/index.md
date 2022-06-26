@@ -6,7 +6,9 @@ title: VictorieeTech
 description: Data Science & Programming
 ---
 
-[Link to another page](./about).
+[About](./about).
+
+[Contact](./contact)
 
 
 Business Content: [Products & Services](./business)
