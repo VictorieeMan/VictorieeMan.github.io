@@ -1,8 +1,8 @@
 ---
 layout: default
-permalink: /
+permalink: /sample_page
 
-title: VictorieeTech
+title: VictorieeMan
 description: Data Science & Programming
 ---
 
