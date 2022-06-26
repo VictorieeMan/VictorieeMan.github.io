@@ -4,4 +4,4 @@ layout: page
 
 # About
 
-About things
+About stugg and things
