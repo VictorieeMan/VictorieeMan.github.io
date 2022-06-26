@@ -1,6 +1,9 @@
 ---
 layout: default
 permalink: /
+
+title: VictorieeMan
+description: Data Science & Programming
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
