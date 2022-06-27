@@ -10,3 +10,8 @@
 #particles-js{
      background-color: #003399;
 }
+
+/*Transforming Jotform banner**/
+.formFooter-f6-branding21{
+     transform: scale(0, 0.5);
+}
