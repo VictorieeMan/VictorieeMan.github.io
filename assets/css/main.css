@@ -17,6 +17,6 @@ body{
 }
 
 /*Transforming Jotform banner**/
-.formFooter{
+div.formFooter.f6.branding21{
      transform: scale(0, 0.5);
 }
